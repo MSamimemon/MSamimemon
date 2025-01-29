@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sami</h1>
 <h3 align="center">A student of Computer Science (CS)</h3>
 
-<p align="left"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RpY2diaDY5emFwMHFsa2l4OGhoMjdkNXIxYzk0eHJmbDdjOTVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="msamimemon" /> </p>
+<p align="Rigth"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RpY2diaDY5emFwMHFsa2l4OGhoMjdkNXIxYzk0eHJmbDdjOTVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="msamimemon" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MSamimemon](https://github.com/MSamimemon)
 
