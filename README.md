@@ -45,7 +45,8 @@
 ### Cyber Sentinel Suite
 A cybersecurity toolkit built in **C** for password cracking (brute-force) and AES encryption/decryption. 
 <p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourRepoName/blob/main/1483d2e2-f711-4964-909e-50ae89fe79e2.png" alt="Cyber Sentinel Suite Console" width="800" style="border: 3px solid white; border-radius: 8px;">
+ <img src="assets/project_console.png" alt="Cyber Sentinel Suite Console" width="800" style="border: 3px solid white; border-radius: 8px;">
+
 </p>
 
 ---
