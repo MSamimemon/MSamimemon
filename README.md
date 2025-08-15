@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sami</h1>
+<!-- Animated Banner with Gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF4DFF,100:00FF87&height=200&section=header&text=Muhammad%20Sami&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+</p>
 
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/MSamimemon">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=CS+Undergraduate;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;AI-Powered+App+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00E5FF,FF4DFF,00FF87,F7F406&center=true&vCenter=true&width=650&lines=CS+Undergraduate;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;AI-Powered+App+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,10 +21,9 @@
 ---
 
 ### 📫 How to Reach Me  
-[![Email](https://img.shields.io/badge/Email-hasnainmemon02%40outlook.com-blue?style=for-the-badge&logo=gmail)](mailto:hasnainmemon02@outlook.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=google-chrome)](#)  
+[![Email](https://img.shields.io/badge/Email-samimemon276%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:samimemon276@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/MSamimemon)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-sami-02a509351/)  
 
 ---
 
@@ -46,9 +49,11 @@
 ---
 
 ### 🚀 Featured Projects  
-- **Cyber Sentinel Suite** – C++ student record management system with GPA, transcript, and course registration features.  
-- **AI Voice Assistant** – Python-based voice-controlled assistant with custom commands.  
 
----
+#### 📌 Cyber Sentinel Suite  
+A C++ student record management system with GPA calculation, transcript generation, and course registration features.  
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-blue?style=for-the-badge)](https://your-live-demo-link.com)  
+[![Source Code](https://img.shields.io/badge/💻%20Source%20Code-black?style=for-the-badge)](https://github.com/MSamimemon/Cyber-Sentinel-Suite)  
+
 
 💡 *"Transforming data into intelligent decisions."*
