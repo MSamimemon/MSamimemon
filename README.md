@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center" style="background-color:black; border: 3px solid white; padding: 15px; display: inline-block; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=650&lines=Muhammad+Sami;CS+Undergraduate;Data+Science+%26+Machine+Learning+Enthusiast;Python+%7C+C+%7C+C%2B%2B+%7C+HTML;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=900&lines=Muhammad+Sami;CS+Undergraduate;Data+Science+%26+Machine+Learning+Enthusiast;Python+%7C+C+%7C+C%2B%2B+%7C+HTML;Passionate+About+AI+and+Security" alt="Typing SVG" />
 </p>
 
 ---
