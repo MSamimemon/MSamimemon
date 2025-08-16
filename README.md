@@ -32,6 +32,13 @@
 
 ---
 
+## ​ Language Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSamimemon&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## ​ Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSamimemon&theme=react-dark" alt="GitHub Activity Graph" />
@@ -39,7 +46,7 @@
 
 ---
 
-##  Featured Project
+##  Featured Projects
 
 ### Cyber Sentinel Suite  
 A cybersecurity toolkit built in **C** for password cracking (brute-force) and AES encryption/decryption.
@@ -47,3 +54,11 @@ A cybersecurity toolkit built in **C** for password cracking (brute-force) and A
 <p align="center">
   <img src="2fdf3789e1978f6d5cff7fa9674643d2fdd0990b.png" alt="Cyber Sentinel Console" width="800" style="border: 3px solid white; border-radius: 8px;" />
 </p>
+
+### Voice Assistant  
+A **desktop voice assistant** built with **Python**, featuring voice commands for opening applications, playing music, searching Google & YouTube, reading news, taking screenshots, providing system information, and controlling system functions like lock, shutdown, or restart.
+
+<p align="center">
+  <img src="console%20pic.png" alt="Voice Assistant Demo" width="800" style="border: 3px solid white; border-radius: 8px;" />
+</p>
+
