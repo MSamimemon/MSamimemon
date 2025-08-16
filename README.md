@@ -52,7 +52,7 @@
 A cybersecurity toolkit built in **C** for password cracking (brute-force) and AES encryption/decryption.
 
 <p align="center">
-  <img src="2fdf3789e1978f6d5cff7fa9674643d2fdd0990b.png" alt="Cyber Sentinel Console" width="800" style="border: 3px solid white; border-radius: 8px;" />
+  <img src="project_console.png" alt="Cyber Sentinel Console" width="800" style="border: 3px solid white; border-radius: 8px;" />
 </p>
 
 ### Voice Assistant  
