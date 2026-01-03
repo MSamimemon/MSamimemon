@@ -1,16 +1,10 @@
-<!-- Banner with Royal Blue Typing Animation -->
-<p align="center" style="background-color:black; border: 3px solid white; padding: 15px; display: inline-block; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=900&lines=Muhammad+Sami;CS+Undergraduate;Data+Science+%26+Machine+Learning+Enthusiast;Python+%7C+C+%7C+C%2B%2B+%7C+HTML" alt="Typing SVG" />
-</p>
-
----
-
 # 💫 About Me:
  🎓: I’m a 2nd-year Bachelor’s student in Computer Science at the National University of Computer and Emerging Sciences (FAST), actively seeking internship opportunities to grow my skills.<br><br>🔭 I’m currently working on building strong Computer Science fundamentals through academic and personal projects.<br><br>🤝 I’m looking to collaborate on internship-level projects related to Machine Learning, Artificial Intelligence, and Data Science.<br><br>🧠 I’m looking for guidance and mentorship to better understand industry-oriented ML/AI applications and data-driven problem solving.<br><br>🌱 I’m currently learning Machine Learning, Artificial Intelligence, Data Science, and improving my programming and analytical skills.<br><br>💬 Ask me about Computer Science basics, problem-solving, or my learning journey as a CS undergraduate.<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Sami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samimemon276@gmail.com) 
+- **Email:** samimemon276@gmail.com  
+- **LinkedIn:** [Muhammad Sami](https://www.linkedin.com/in/muhammad-sami-02a509351/)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
