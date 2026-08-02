@@ -91,13 +91,13 @@ A **desktop voice assistant** built with **Python**, featuring voice commands fo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sami-b6ed.vercel.app/api?username=MSamimemon&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats-sami-b6ed.vercel.app/api?username=MSamimemon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_bust=1" />
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=MSamimemon&theme=dark&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sami-b6ed.vercel.app/api/top-langs/?username=MSamimemon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats-sami-b6ed.vercel.app/api/top-langs/?username=MSamimemon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_bust=1" />
 </p>
 
 ## 🏆 GitHub Trophies
