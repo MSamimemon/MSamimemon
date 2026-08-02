@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Muhammad%20Sami&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0C0C0,100:FFFFFF&height=220&section=header&text=Muhammad%20Sami&fontSize=48&fontColor=0F172A&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20&stroke=0F172A&strokeWidth=1" alt="header banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Sami;CS+Undergrad+%40+FAST-NUCES+(2028);Building+with+AI%2FML+and+MERN+Stack;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=C0C0C0&center=true&vCenter=true&width=650&lines=Hi+there%2C+I+am+Muhammad+Sami;CS+Undergrad+at+FAST-NUCES%2C+Class+of+2028;Building+with+AI%2FML+and+MERN+Stack;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@ A full-stack **MERN** application that brings resume management, job description
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MSamimemon/Resume_Assistant/main/screenshots/01-landing-hero.png" alt="Resume Assistant Landing Page" width="800" style="border: 3px solid white; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/MSamimemon/Resume_Assistant/main/screenshots/ss1.png" alt="Resume Assistant Landing Page" width="800" style="border: 3px solid white; border-radius: 8px;" />
 </p>
 
 ---
