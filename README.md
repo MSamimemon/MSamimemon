@@ -65,7 +65,7 @@ A full-stack **MERN** application that brings resume management, job description
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MSamimemon/Resume_Assistant/main/screenshots/01-landing-hero.png" alt="Resume Assistant Landing Page" width="800" style="border: 3px solid white; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/MSamimemon/Resume_Assistant/main/screenshots/ss1.png" alt="Resume Assistant Landing Page" width="800" style="border: 3px solid white; border-radius: 8px;" />
 </p>
 
 ---
